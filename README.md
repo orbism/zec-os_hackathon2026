@@ -4,6 +4,8 @@ A customized [ZEC-OS](https://zec-os.com) distribution — a retro desktop UI fo
 
 Build designed for the 2026 ZECHUB Hackathon· version 1.1.2.
 
+Created by orb · [orbatron.org](https://orbatron.org)
+
 ## Included apps
 
 **charts** — Price Chart, Shielded Chart, Pools Chart, Supply Chart
@@ -291,3 +293,18 @@ pnpm db:push      # create the tables
 pnpm db:generate  # generate the client
 ```
 
+---
+
+## Donate
+
+ZEC-OS runs on real infrastructure and copious amounts of coffee (Zebra · Zaino · Zingo · Zallet · gRPC).
+
+**ZEC:** `u192er4slrt3pqqqsqek5ksxvqfw9ws5qgtqvc5fjdpl9qg6kfzw9m9d8qcm80f2r37q0lxmkmtv9hqk8zrsuqlzny6pt8ut7xtgpam34q`
+
+**ETH:** `orbgasm.eth`
+
+---
+
+MIT · Created by orb · [orbatron.org](https://orbatron.org)
+
+This project is released under the MIT license — you're welcome to fork, remix, and build on it. If you do, please keep the copyright notice and attribution above intact in your copy or derivative. It helps others find the original and keeps the chain of credit clear. Thank you.
